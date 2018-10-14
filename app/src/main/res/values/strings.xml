@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RealEstateAgency</string>
+    <string name="sync">Синхронизация</string>
+    <string name="network_error">Отсутствует интернет-соединение</string>
+    <string name="company">Застройщик:</string>
+    <string name="floors">Этажи:</string>
+    <string name="floor">Этаж:</string>
+    <string name="square">Площадь:</string>
+    <string name="apartment_list">Список квартир</string>
+    <string name="apartments">Квартиры:</string>
+    <string name="house_id">Идентификатор дома:</string>
+    <string name="activity_house_title">Дом</string>
+    <string name="activity_house_list_title">Список домов</string>
+    <string name="activity_apartment_list_title">Список квартир</string>
+    <string name="activity_apartment_title">Квартира</string>
+    <string name="cubed_meters">м^3</string>
+    <string name="apartment_number">Квартира №</string>
+</resources>
